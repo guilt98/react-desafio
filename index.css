@@ -1,0 +1,31 @@
+body {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-style: italic; 
+ background-color: blue;
+ 
+}
+
+p {
+  color:black;
+  font-size: 140%;
+}
+
+ul {
+  color: chartreuse;
+  font-size: 130%;
+}
+
+ol {
+  color: darkred;
+  font-size: 130%;
+}
+
+.h2 {
+  color:darkorange;
+  font-size: 180%;
+}
+
+h2 {
+  color: purple;
+  font-size: 180%;
+}
